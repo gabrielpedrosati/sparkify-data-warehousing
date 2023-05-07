@@ -28,11 +28,9 @@ pip install -r requirements.txt
    
    1. Create IAM Role for Redshift.
    
-   2. 
+   2. Assign `AmazonS3ReadOnlyAccess` permission to created IAM Role.
    
-   3. Assign `AmazonS3ReadOnlyAccess` permission to created IAM Role.
-   
-   4. Open port 5439 for Redshift Cluster access.
+   3. Open port 5439 for Redshift Cluster access.
 
 2. Dimensionl Modeling
    
