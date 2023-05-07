@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+config\dwh2.cfg
+credentials
+infra\.ipynb_checkpoints
+infra\2018-11-01-events.json
+infra\TRAAAAK128F9318786.json
+lessons
+src\__pycache__
+src\.ipynb_checkpoints
+venv
+Optimizing Table Design.txt
