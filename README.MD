@@ -28,7 +28,7 @@ pip install -r requirements.txt
    
    1. Create IAM Role for Redshift.
    
-   2. Atribuir permissão `AmazonS3ReadOnlyAccess` à IAM Role criada.
+   2. 
    
    3. Assign `AmazonS3ReadOnlyAccess` permission to created IAM Role.
    
