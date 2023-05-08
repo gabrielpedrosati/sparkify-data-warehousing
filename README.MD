@@ -64,8 +64,14 @@ pip install -r requirements.txt
 
 The `config/dwh.cfg` file has the credentials to access the AWS account and the necessary configurations to create the services. For the script to work perfectly it is necessary to change this file.
 
+To create the infrastructure in an intuitive way you can run the jupyter notebook `infra/reshift_infra.ipynb`.
+
 ```python
-python infra/redshift_infra.py
+# Parameters
+#    --create - creates infrastructure.
+#    --destroy - deletes all infrastructure services.
+
+python infra/redshift_infra.py --parameter
 ```
 
 ## Data Sources

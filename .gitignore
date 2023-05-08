@@ -9,3 +9,4 @@ src\__pycache__
 src\.ipynb_checkpoints
 venv
 Optimizing Table Design.txt
+infra\infra_teste.py
